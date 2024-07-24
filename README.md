@@ -14,4 +14,5 @@ simple web application. Build and run Docker containers locally.
 
 Key Activities: Here are the steps how I containerized my web app written in golang.
 
-        1. We write a sime web-application in golang. You can see that in main.go file
+        1. We write a simple web-application in golang. You can see that in main.go file. The web-app returns Hello World when main file is run and we expose this on port 8080
+           so whenever we run the code in local system than, we can access this web-app on browser using localhost:8080
